@@ -71,7 +71,7 @@ this.currentNote = null;
 
 <style>
 .cover {
-background-image: url("./assets/background.jpg");
+background-image: url("./assets/organizer1.jpg");
 background-position: center;
 background-size: cover;
 min-height: 150px;
